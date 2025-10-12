@@ -18,7 +18,7 @@
 ## Tech Stack  
 
 * **Languages**: Python, C, HTML, CSS, JavaScript  
-* **Tools**: Git, GitHub, VS Code, Jupyter Notebook  
+* **Tools**: Git, GitHub, VS Code, Jupyter Notebook ,Google-Colab 
 
 ---
 
